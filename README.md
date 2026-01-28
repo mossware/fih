@@ -1,6 +1,6 @@
 # fih ![Plasma 6](https://img.shields.io/badge/Plasma-6-blue?logo=kde)
 
-a small fish tank that sits on your desktop  
+a small ascii fish tank that sits on your desktop  
 and does absolutely nothing important.
 
 KDE Plasma 6 widget.
